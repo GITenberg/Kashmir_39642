@@ -1,0 +1,39 @@
+_repo: Kashmir_39642
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Molyneux, E. (Edward)
+    alias: Molyneux, Edward Mary Joseph
+    birthdate: 1866
+    gutenberg_agent_id: '39855'
+    url: http://www.gutenberg.org/2009/agents/39855
+covers:
+- cover_type: archival
+  image_path: 39642-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Younghusband, Francis Edward, Sir
+    aliases:
+    - Younghusband, Frank E.
+    - Younghusband, Sir Francis Edward
+    birthdate: 1863
+    deathdate: 1942
+    gutenberg_agent_id: '32545'
+    url: http://www.gutenberg.org/2009/agents/32545
+    wikipedia: http://en.wikipedia.org/wiki/Francis_Younghusband
+description: ''
+gutenberg_issued: '2012-05-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39642'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Jammu and Kashmir (India) -- Pictorial works'
+- !lcsh 'Jammu and Kashmir (India) -- Description and travel'
+- !lcsh 'Himalaya Mountains -- Description and travel'
+- !lcc 'DS'
+title: Kashmir, described by Sir Francis Younghusband, painted by Major E. Molyneux
+url: http://www.gutenberg.org/ebooks/39642
